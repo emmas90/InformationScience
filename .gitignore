@@ -3,7 +3,7 @@ project.*
 project/
 test/
 stuff/
-course
+course/
 course/index
 assignments/chapter*
 .DS_Store
