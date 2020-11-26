@@ -7,3 +7,5 @@ course
 course/index
 assignments/chapter*
 .DS_Store
+.vscode
+.ipynb_checkpoints/
