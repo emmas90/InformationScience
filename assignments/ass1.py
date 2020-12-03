@@ -22,3 +22,6 @@ try:
     
 except Exception as e:
     print("Hey hey foute boel, iets ging mis.")
+
+
+quote()
