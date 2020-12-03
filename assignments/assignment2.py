@@ -16,4 +16,4 @@ marc21 = re.search('marc21', website_and_clvd)
 if not marc21 :
     print("This xml does not contain marc21-format metadata. Please consult different transformer.")
 
-pip install pymarc
+# pip install pymarc
