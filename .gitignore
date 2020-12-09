@@ -1,6 +1,7 @@
 publish.py
 project.*
 project/
+project2/
 test/
 stuff/
 course/
@@ -9,3 +10,7 @@ assignments/chapter*
 .DS_Store
 .vscode
 .ipynb_checkpoints/
+course/__*
+course_assignments/__*
+course/index
+students/
