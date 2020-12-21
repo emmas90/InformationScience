@@ -1,7 +1,5 @@
 publish.py
-project.*
-project/
-project2/
+recordings/
 test/
 stuff/
 course/
@@ -12,5 +10,6 @@ assignments/chapter*
 .ipynb_checkpoints/
 course/__*
 course_assignments/__*
+course_assignments/index
 course/index
 students/
